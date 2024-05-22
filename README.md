@@ -1,7 +1,8 @@
-<img align="center" width=100% src="https://github.com/RicardoMouraa/RicardoMouraa/assets/106688139/a23c252f-6a3d-42d8-96a0-0d6a3839fb96"/>
+<img align="center" width=100% src="card.davis.jpg">
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I ❤️ developing innovative web solutions. <br><br> As a freelance web developer, I specialize in creating websites, landing pages, e-commerce sites, blogs, and more. With a focus on <strong>HTML, CSS, JavaScript</strong>, I am <strong>passionate about crafting user-centric experiences</strong> and leveraging technology for high-quality solutions.</p>&nbsp;
+<p align="center">Sou um desenvolvedor web com ideias invadoras. <br><br> Como um bom desenvolvedor web front-end, me especializo na criação de sites, landing pages, sites de comércio eletrônico, app mobile, blogs e muito mais. Tendo em foco o uso do <strong>HTML, CSS e e JavaScrpit,</strong> sou louco por criar experiências inovadoras aos usuários e aproveitar a tecnologia para soluções de alta qualidade.
+</p>&nbsp;
 
 <div align="center" style="margin-bottom:100px">
 <img width=48% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=RicardoMouraa&theme=dracula&mode=weekly" />
