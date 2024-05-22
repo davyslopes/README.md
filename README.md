@@ -1,4 +1,4 @@
-<img align="center" width=100% src="card.davis.jpg">
+<img align="center" width=100% src="img.davis.jpg">
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">Sou um desenvolvedor web com ideias invadoras. <br><br> Como um bom desenvolvedor web front-end, me especializo na criação de sites, landing pages, sites de comércio eletrônico, app mobile, blogs e muito mais. Tendo em foco o uso do <strong>HTML, CSS e e JavaScrpit,</strong> sou louco por criar experiências inovadoras aos usuários e aproveitar a tecnologia para soluções de alta qualidade.
